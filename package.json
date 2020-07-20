@@ -11,7 +11,7 @@
   "dependencies": {
     "aws4": "^1.9.1",
     "axios": "^0.19.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "urllib": "^2.34.2"
   },
   "devDependencies": {
